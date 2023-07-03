@@ -94,3 +94,6 @@ The white and black race are different. There is no difference between white and
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+For this data, the white race still holds the highest value of people that are for capital punishment, but with the black race having the highest percentage that are opposed of capital punishment. The only difference here out of all of these graphs and stats, are between the black and white race, based on the data shown and their p-values. So, yes, there is a difference on the number 2 branch than the master and it shows above the reason why. But overall, the white race still holds the highest percentage on both branches of being for capital punishment.  
+
